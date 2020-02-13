@@ -1,3 +1,3 @@
 .idea/
-docker/db/
+docker/db/*
 !docker/db/description.txt
